@@ -1,0 +1,11 @@
+llama-index
+llama-index-llms-ollama
+llama-index-vector-stores-qdrant
+llama-index-embeddings-huggingface
+qdrant_client
+pypdf
+transformers
+torch
+pyfiglet
+jupyterlab
+jupyterlab
